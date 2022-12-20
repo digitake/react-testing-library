@@ -1,5 +1,5 @@
 {
-  "name": "bs-react-testing-library",
+  "name": "@rescriptbr/testing-library",
   "bsc-flags": ["-bs-no-version-header", "-bs-super-errors"],
   "warnings": {
     "number": "+A-48-42",
